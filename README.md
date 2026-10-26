@@ -30,7 +30,7 @@ Target ditinggal karena akses terbatas dan tidak ada respons dari support. Attac
 
 **Tipe:** VDP (Vulnerability Disclosure Program) — no monetary reward, acknowledgment only
 
-**Status:** ✅ Ongoing
+**Status:** ✅ Finished
 
 **Constraint utama:** Unauthenticated testing only, production-safe, max 6 req/sec, no stored XSS, no brute-force pada form submission
 
