@@ -195,7 +195,7 @@ Submit masing-masing form sekali dengan data dummy, capture response di Burp Sui
 | Bendigo Bank — CDR API | ✅ Dieksplor | Dead end, semua endpoint missing |
 | Up Bank — API | ✅ Dieksplor | Semua endpoint butuh auth |
 
-**Next steps yang disarankan:**
+**Next steps yang perlu dipelajari:**
 
 - Pelajari modul BCU: *How to Make Good Submissions* dan *Access Controls*
 - Pivot ke target paid bounty baru dengan attack surface yang lebih ramah untuk unauthenticated testing
